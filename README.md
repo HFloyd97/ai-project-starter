@@ -6,7 +6,7 @@ Goal: [what this project is for, in one sentence]
 
 Audience: [who the work is for]
 
-Current priority: [the one thing being worked on now]
+Current priority: [the next specific task]
 
 ## Rules for any AI working on this project
 
